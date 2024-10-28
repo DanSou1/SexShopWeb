@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\context\\dbsexshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:context\\dbsexshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\xperienceloveweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:xperienceloveweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\xperienceloveweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:xperienceloveweb.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\models\\providers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:models\\providers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\models\\tipe_of_pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:models\\tipe_of_pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|e:\\github\\sexshopweb\\xperienceloveweb\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A968BE0E-DC09-430C-B5E5-757C9385CAE5}|XperienceLoveWeb.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbSexShop.cs",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Context\\dbSexShop.cs",
+              "RelativeDocumentMoniker": "Context\\dbSexShop.cs",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Context\\dbSexShop.cs",
+              "RelativeToolTip": "Context\\dbSexShop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:27:27.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XperienceLoveWeb",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\XperienceLoveWeb.csproj",
+              "RelativeDocumentMoniker": "XperienceLoveWeb.csproj",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\XperienceLoveWeb.csproj*",
+              "RelativeToolTip": "XperienceLoveWeb.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T15:18:54.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:18:51.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Providers.cs",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Providers.cs",
+              "RelativeDocumentMoniker": "Models\\Providers.cs",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Providers.cs",
+              "RelativeToolTip": "Models\\Providers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:16:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tipe_of_pay.cs",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Tipe_of_pay.cs",
+              "RelativeDocumentMoniker": "Models\\Tipe_of_pay.cs",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Tipe_of_pay.cs",
+              "RelativeToolTip": "Models\\Tipe_of_pay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:11:35.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T14:47:06.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XperienceLoveWeb.http",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\XperienceLoveWeb.http",
+              "RelativeDocumentMoniker": "XperienceLoveWeb.http",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\XperienceLoveWeb.http",
+              "RelativeToolTip": "XperienceLoveWeb.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T14:46:33.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T14:27:44.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Products.cs",
+              "DocumentMoniker": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "E:\\GitHub\\SexShopWeb\\XperienceLoveWeb\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T13:38:57.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
